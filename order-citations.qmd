@@ -1,0 +1,7 @@
+---
+title: "Order inline citations by year"
+bibliography: references.bib
+csl: chicago-author-date-inline.csl
+---
+
+[@knuth1984; @lowndes2017; @xie2015]
